@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  font-family: "Edu VIC WA NT Beginner", cursive;
+}
+.navlink{
+  margin-right: 30px;
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+
+}
+.navlink:hover{
+  text-decoration: underline;
+}
